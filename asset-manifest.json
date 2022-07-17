@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/pwa_travel/static/js/main.68868ff0.js",
+    "index.html": "/pwa_travel/index.html",
+    "main.68868ff0.js.map": "/pwa_travel/static/js/main.68868ff0.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.68868ff0.js"
+  ]
+}
