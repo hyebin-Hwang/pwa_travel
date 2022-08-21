@@ -1,10 +1,11 @@
 import React from "react";
+import Login from "./pages/Login/Login";
 
 function App() {
   return (
-    <div className="App">
-      <h2>PWA TEST</h2>
-    </div>
+    <>
+      <Login />
+    </>
   );
 }
 
