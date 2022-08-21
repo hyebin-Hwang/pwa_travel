@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/pwa_travel/static/js/main.0833780f.js",
+    "main.js": "/pwa_travel/static/js/main.b0a385a1.js",
     "service-worker.js": "/pwa_travel/service-worker.js",
     "index.html": "/pwa_travel/index.html",
-    "main.0833780f.js.map": "/pwa_travel/static/js/main.0833780f.js.map"
+    "main.b0a385a1.js.map": "/pwa_travel/static/js/main.b0a385a1.js.map"
   },
   "entrypoints": [
-    "static/js/main.0833780f.js"
+    "static/js/main.b0a385a1.js"
   ]
 }
